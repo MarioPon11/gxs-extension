@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from '@adobe/react-spectrum';
 import CSInterface from '../lib/cep/csinterface';
 import { CSEvent } from '../lib/cep/csinterface';
 
